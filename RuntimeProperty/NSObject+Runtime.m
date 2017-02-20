@@ -7,7 +7,6 @@
 //
 
 #import "NSObject+Runtime.h"
-#import "ObjcProperty.h"
 
 @implementation NSObject (Runtime)
 

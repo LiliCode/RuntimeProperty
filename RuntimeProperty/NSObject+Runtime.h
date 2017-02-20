@@ -7,8 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-
-@class ObjcProperty;
+#import "ObjcProperty.h"
 
 @interface NSObject (Runtime)
 
